@@ -47,5 +47,6 @@ public class Exercise6 {
 	    System.out.println(str3);
 	    System.out.println(str4);
 	    
+	   
 	}
 }
