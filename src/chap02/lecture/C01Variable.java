@@ -18,7 +18,7 @@ public class C01Variable {
 		
 		//변수명 작성 관습
 		//lowerCamelCase
-		int my Name;//ok
+		int myName;//ok
 		
 		//변수에 저장된 값을 다른 명령문에서 사용 가능
 		//변수에 값 저장(할당,대입)
