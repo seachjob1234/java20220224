@@ -37,7 +37,7 @@ public class C08for {
 		}
 		System.out.println(mini);
 		
-		System.out.println(max*mini);
+	
 
 	}
 }
