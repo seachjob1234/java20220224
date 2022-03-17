@@ -22,6 +22,7 @@ public class p351Audio implements p349RemoteControl {
 		}else {
 			this.volume = volume;
 		}
+		
 		System.out.println("현재 tv 볼륨:" + this.volume);
 		
 	}
