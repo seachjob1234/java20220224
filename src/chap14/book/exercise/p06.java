@@ -6,6 +6,7 @@ public class p06 {
 		private String name;
 		private int englishScore;
 		private int mathScore;
+		public String studentNum;
 		
 		public Student(String name, int englishScore, int mathScore) {
 			this.name = name;
